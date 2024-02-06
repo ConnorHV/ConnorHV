@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 
 <p align="center">
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/connorhv)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/connorhv)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/connorhv/badge-it)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/connorhv)](https://badges.pufler.dev) 
+[![Years Badge](https://badges.pufler.dev/years/connorhv)](https://badges.pufler.dev) 
+[![Visits Badge](https://badges.pufler.dev/visits/connorhv/badge-it)](https://badges.pufler.dev)
 </p>
 
 ## About-Me
