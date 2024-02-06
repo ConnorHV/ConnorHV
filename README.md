@@ -5,7 +5,7 @@
 </p>
 
 ## About-Me
-Hi 👋. My name is Connor, and I am a new developer trying to learn JS and HTML. I currently live in the USA 🇺🇸. I like to be active in sports (I run Cross Country and long distance in Track) and I am also into doing sport photography
+Hi 👋. My name is Connor, and I am a new developer trying to learn JS and HTML. I currently live in the USA 🇺🇸. I like to be active in sports (I run Cross Country and long distance in Track) and I am also into doing sport photography.
 
 ## My Coding Background
 I am currently learning to code in <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> through <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" />
