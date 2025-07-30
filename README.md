@@ -1,8 +1,3 @@
-## My Stats 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/connorhv)](https://badges.pufler.dev) 
-[![Years Badge](https://badges.pufler.dev/years/connorhv)](https://badges.pufler.dev) 
-[![Visits Badge](https://badges.pufler.dev/visits/connorhv/badge-it)](https://badges.pufler.dev)
-
 ## About-Me
 Hi 👋. My name is Connor, and I am a new developer trying to learn HTML, CSS, and some Swift app development. I currently live in the USA 🇺🇸. I am in college double majoring in Commercial Aviation and UAS Operations. 
 
