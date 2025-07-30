@@ -2,7 +2,7 @@
 Hi 👋. My name is Connor, and I am a new developer trying to learn HTML, CSS, and some Swift app development. I currently live in the USA 🇺🇸. I am in college double majoring in Commercial Aviation and UAS Operations. 
 
 ## My Coding Background
-Currently I code on <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> and which I use <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> and <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> to code with. I use <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> for design icons/ features.
+Currently I code on <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> and which I use <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> and <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> to code with.
 
 ## Contact
 If you need to reach out to me, you can hit me up on Discord by `@connorhv` or you can email me at <a href = "mailto: connorhv.management@gmail.com">connorhv.management@gmail.com</a>
